@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Rafi Adnan 👋</h1>
+<p align="center">
+  <a href="https://github.com/thenoname09">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rafi+Adnan+%F0%9F%91%8B;Junior+Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafi-adnan02/">
@@ -11,13 +15,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🌱 Junior Full-Stack Developer building projects with the **Next.js, React, and Node.js** ecosystem
-- 🔧 Skilled in secure authentication, role-based access control, and payment integrations
-- 💡 Passionate about writing clean, scalable code
-- 📍 Based in Dhaka, Bangladesh
-- 🎯 Currently open to Junior/Entry-level Full-Stack or Frontend Developer opportunities
+- 👋 Hi, I'm **Rafi Adnan**, a Junior Full-Stack Developer based in Dhaka, Bangladesh
+- 💻 I'm currently working with **React.js, Next.js, Tailwind CSS, and Framer Motion** for frontend development
+- 🛠️ Using **Node.js, Express.js, MongoDB, and REST APIs** for the backend
+- 🔐 Focused on **secure authentication** — Better Auth, JWT, and Google OAuth — plus **Stripe** payment integrations
+- 🌱 Continuously sharpening my full-stack skills and exploring new tools
+- 💬 Ask me about **Full-Stack development (Next.js, React, Node.js, Express.js, MongoDB)**
+- 🌐 Explore my projects: **[Fable](https://github.com/thenoname09/fable-ebook-clinetside)** and **[DriveFleet](https://github.com/thenoname09/car-rent)**
+- 📫 Reach me at **[Email](mailto:rafi.adnan465@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/rafi-adnan02/)**
 
 ---
 
@@ -75,8 +82,6 @@ A full-stack car rental platform where users can explore vehicles, view details,
 </p>
 
 ---
-
-### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafi-adnan02/">LinkedIn</a> ·
