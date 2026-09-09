@@ -17,7 +17,7 @@
 
 ### About Me
 
-- 👋 Hi, I'm **Rafi Adnan**, a Junior Full-Stack Developer based in Dhaka, Bangladesh
+- 👋 Hi, I'm **Rafi Adnan**, a Junior Full-Stack Developer 
 - 💻 I'm currently working with **React.js, Next.js, Tailwind CSS, and Framer Motion** for frontend development
 - 🛠️ Using **Node.js, Express.js, MongoDB, and REST APIs** for the backend
 - 🔐 Focused on **secure authentication** — Better Auth, JWT, and Google OAuth — plus **Stripe** payment integrations
