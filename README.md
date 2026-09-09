@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Rafi Adnan 👋</h1>
-<h3 align="center">Junior Full-Stack Developer | Next.js • React • Node.js • MongoDB</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafi-adnan02/">
