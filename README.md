@@ -9,7 +9,7 @@
 ### About Me
 
 - 👋 Hi, I'm **Rafi Adnan**, a Junior Full-Stack Developer
-- 💻 I'm currently working with **React.js, Next.js, Tailwind CSS, and Framer Motion** for frontend development
+- 💻 I'm currently working with ** Next.js, React.js, Tailwind CSS, and Framer Motion** for frontend development
 - 🛠️ Using **Node.js, Express.js, MongoDB, and REST APIs** for the backend
 - 🔐 Focused on **secure authentication** — Better Auth, JSON Web Tokens, and Google OAuth — plus **Stripe** payment integrations
 - 🌱 Continuously sharpening my full-stack skills and exploring new tools
