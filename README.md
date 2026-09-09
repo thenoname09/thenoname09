@@ -15,7 +15,7 @@
 - ⚡ Currently exploring **Vite** and AI-assisted coding tools like **Cursor** to speed up my development workflow
 - 🌱 Continuously sharpening my full-stack skills and exploring new tools
 - 💬 Ask me about **Full-Stack development (Next.js, React, Node.js, Express.js, MongoDB)**
-- 📫 Reach me at ** rafiadnan.dev365@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/rafi-adnan02/)**
+- 📫 Reach me at **rafiadnan.dev365@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/rafi-adnan02/)**
 
 ---
 
