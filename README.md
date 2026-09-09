@@ -51,8 +51,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafi-adnan02/">LinkedIn</a> ·
-  <a href="mailto:rafi.adnan465@gmail.com">Email</a> ·
-  <a href="https://github.com/thenoname09/">GitHub</a>
-</p>
+
