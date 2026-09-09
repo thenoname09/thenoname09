@@ -4,21 +4,30 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafi-adnan02/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rafi.adnan465@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
 ### About Me
 
-- 👋 Hi, I'm **Rafi Adnan**, a Junior Full-Stack Developer
-- 💻 I'm currently working with ** Next.js, React.js, Tailwind CSS, and Framer Motion** for frontend development
+- 💻 I'm currently working with **Next.js, React.js, Tailwind CSS, and Framer Motion** for frontend development
 - 🛠️ Using **Node.js, Express.js, MongoDB, and REST APIs** for the backend
 - 🔐 Focused on **secure authentication** — Better Auth, JSON Web Tokens, and Google OAuth — plus **Stripe** payment integrations
+- ⚡ Currently exploring **Vite** and AI-assisted coding tools like **Cursor** to speed up my development workflow
 - 🌱 Continuously sharpening my full-stack skills and exploring new tools
 - 💬 Ask me about **Full-Stack development (Next.js, React, Node.js, Express.js, MongoDB)**
 - 📫 Reach me at **[Email](mailto:rafi.adnan465@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/rafi-adnan02/)**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -36,6 +45,12 @@
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenoname09&theme=dark" alt="thenoname09" />
+</p>
 
 ---
 
